@@ -1,0 +1,9 @@
+pandas
+pyarrow
+openai
+langchain
+tqdm
+requests
+python-dotenv
+numpy
+matplotlib
