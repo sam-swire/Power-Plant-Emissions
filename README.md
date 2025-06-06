@@ -9,7 +9,7 @@ This project is an end-to-end data pipeline and analysis toolkit for U.S. power 
 - Integrates with a GPT-powered assistant (via LangChain) for interactive querying
 
 ## 📁 Project Structure
-<pre lang="markdown"><code>```plaintext
+<pre lang="markdown"><code>
 energy-emissions-pipeline/
 ├── autodownload_*.py             # Automated data download scripts
 ├── merge_chunk_*.py              # Chunk merging and consolidation scripts
@@ -18,7 +18,7 @@ energy-emissions-pipeline/
 ├── data/                         # (gitignored) Raw and processed datasets
 ├── LICENSE                       # MIT License
 └── README.md
-```</code></pre>
+</code></pre>
 
 ## 🧠 Motivation
 EPA emissions data is valuable but fragmented. This project makes it accessible, clean, and interactive—bridging environmental data science and AI tools to support further analysis, policy research, and educational use.
